@@ -23,7 +23,7 @@ redirect_from:
 
 *Crew Schedule Operations and Recovery Under Disruption*
 * Contributed to large-scale optimization systems for real-time crew scheduling and disruption management in complex, highly constrained environments.
-* mproved system performance and scalability of optimization pipelines, achieving ~40% manual recovery time reduction and enabling faster decision cycles in time-sensitive workflows.
+* Improved system performance and scalability of optimization pipelines, achieving ~40% manual recovery time reduction and enabling faster decision cycles in time-sensitive workflows.
 
 **Research Intern, Mitsubishi Electric Research Laboratories**  Dec 2020 - Apr 2021
 * Develope a risk-constrained virtual power plant energy optimization model with novel bidding strategies. 
