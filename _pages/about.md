@@ -10,13 +10,13 @@ redirect_from:
 <span style="color: #FFBF27;">About Me</span>
 =====
 
-My name is Leo (Cheng-Lung) Chen. I am a Senior Operations Research Developer at Southwest Airlines, where I build and deploy large-scale optimization systems for real-time airline operations.
+My name is Leo (Cheng-Lung) Chen. I am a Senior Operations Research Developer at Southwest Airlines, where I build and deploy large-scale optimization systems for real-time airline operations—basically, I help planes, schedules, and reality argue less with each other. Reality still wins sometimes.
 
-My work sits at the intersection of optimization, software systems, and operational decision-making. I focus on translating complex, high-stakes problems into production-ready solutions that must perform under uncertainty, integrate with existing systems, and drive measurable business impact.
+My work sits at the intersection of optimization, software systems, and operational decision-making. I turn messy, high-stakes problems into production systems that actually run under uncertainty, within legacy constraints, and often under the gentle pressure of “this needs to work right now.”
 
-I am particularly interested in system-level behavior of optimization in production: how decisions propagate across interconnected systems, how trade-offs are made beyond the model, and how robust design can improve reliability in real-world operations.
+I’m particularly interested in how optimization behaves after the model is solved—because that’s where most of the real problems start. Decisions propagate, interact, and sometimes produce outcomes that looked perfectly reasonable… on paper.
 
-In addition to delivery, I continuously explore new ideas in optimization and system design, while maintaining and evolving existing solutions. I am motivated by work that not only solves problems, but also shapes how complex systems operate in practice.
+A lot of my work is about designing systems that are not only smart, but resilient, because in airline operations, “almost correct” is just a slower way of being wrong. I spend my time building new capabilities and maintaining systems that have been in production long enough to develop a personality. The goal isn’t just to find the best solution, but to shape how complex systems behave in practice with fewer surprises and fewer firefights.
 
 <span style="color: #FFBF27;">Events</span>
 =====

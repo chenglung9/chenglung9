@@ -12,17 +12,18 @@ redirect_from:
 
 **Senior Operations Research Developer, Southwest Airlines**  Sep 2024 - Now
 
-*Aircraft Assignment, Route Planning and Recovery Optimization Under Disruption - The Baker*
-* Enhanced Southwest Airlines’ real-time aircraft recovery optimization system by tailoring solution metrics to six irregular-operation scenarios and four solution profiles, enabling faster and more informed decision-making for operations controllers.
-* Improved visibility of crew impacts within recovery solutions by introducing new metrics (duty/rest violations, insufficient connection time, cascading crew availability after cancellations), strengthening reliability and reducing risk of uncovered flights.
-* Designed and implemented a fuel-efficiency–aware tail assignment algorithm, assigning long-haul flights to lower fuel-bias aircraft. This innovation reduced delays and passenger displacement, improved on-time maintenance compliance, and lowered fuel consumption and costs while contributing to environmental sustainability goals.
-* Led code security remediation efforts by resolving critical Veracode-flagged vulnerabilities (integer overflow, underflow, signed–unsigned mismatches, cryptographic entropy); enhanced software security posture with nearly 2× improvement in security scan results.
-* Relevant skills: Operations Research, C++, Gitlab, Amazon Web Services, Scaled Agile Framework
+*Aircraft Assignment, Route Planning and Recovery Optimization Under Disruption*
+* Designed system-level decision frameworks for dynamic resource reallocation under disruption, enabling rapid evaluation of trade-offs across multiple operational scenarios and competing objectives.
+* Developed downstream impact metrics to capture cascading effects across interdependent resources, improving global system stability and decision quality in real-time decision environments.
+* Designed and implemented a multi-objective resource allocation algorithm balancing cost efficiency, reliability, and operational constraints across a large-scale networked system.
+* Led cross-functional initiatives across engineering, operations, and security teams to improve system robustness, including remediation of critical vulnerabilities and improving enterprise security scan outcomes by ~2x.
+* Technologies: C++, Optimization, AWS (EC2, S3), GitLab, Agile (SAFe)
 
 **Operations Research Consultant, American Airlines**  Jun 2022 - Aug 2024
 
 *Crew Schedule Operations and Recovery Under Disruption*
-* Enhance the mathematical optimization engine's computational performance for the crew recovery system used in airline disruption management through meticulous maintenance and deployment of new features, enhancing the [resilience against 2022 winter storm Elliott](https://businesstravelerusa.com/news/american-airlines-coo-thanks-staff-over-remarkable-performance-in-december/) as well as resulting in an impressive 40% improvement in 2023.
+* Contributed to large-scale optimization systems for real-time crew scheduling and disruption management in complex, highly constrained environments.
+* mproved system performance and scalability of optimization pipelines, achieving ~40% manual recovery time reduction and enabling faster decision cycles in time-sensitive workflows.
 
 **Research Intern, Mitsubishi Electric Research Laboratories**  Dec 2020 - Apr 2021
 * Develope a risk-constrained virtual power plant energy optimization model with novel bidding strategies. 
