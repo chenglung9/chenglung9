@@ -21,3 +21,4 @@ A lot of my work is about designing systems that are not only smart, but resilie
 <span style="color: #FFBF27;">Events</span>
 =====
 * Invited panel speaker, "Preparing for Job Market (Academia, Industry, and National Labs)", [IISE Annual Meeting](https://www.iise.org/annual/), May 2026
+* Invited seminar speaker, Transportation Engineering Division, Department of Civil Engineering, National Taiwan University, November 2026
